@@ -26,6 +26,9 @@
 		"uniques": [
       			"[+100]% unhappiness from the number of cities",
       			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+5 Science] [in all cities] <before discovering [Nuclear Fission]>",
+			"[+20]% [Science] [in all cities] <before discovering [Advanced Ballistics]>",
+			"May buy [Manhattan Project] buildings with [Science] [in all cities]",
 			"May buy [Nuclear Weapon] units for [10] [Gold] [in all cities]",
 			"May buy [Nuclear Weapon] units for [10] [Faith] [in all cities]",
      			"[+200]% Production when constructing [Nuclear Weapon] units [in all cities]",
