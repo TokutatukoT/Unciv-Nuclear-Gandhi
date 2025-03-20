@@ -26,7 +26,11 @@
 		"uniques": [
       			"[+100]% unhappiness from the number of cities",
       			"[-50]% Unhappiness from [Population] [in all cities]",
-			"[+5 Science] [in all cities] <before discovering [Nuclear Fission]>",
+			"[50]% Food is carried over after population increases [in all cities] <before discovering [Advanced Ballistics]>",
+			"[+1 Science] per [1] population [in all cities] <before discovering [Advanced Ballistics]>",
+			"[+5 Science] [in all cities] <before discovering [Advanced Ballistics]>",
+			"[+2 Science] from every specialist [in all cities] <before discovering [Advanced Ballistics]>",
+			"[-50]% Food consumption by specialists [in all cities]",
 			"[+20]% [Science] [in all cities] <before discovering [Advanced Ballistics]>",
 			"May buy [Manhattan Project] buildings with [Science] [in all cities]",
 			"May buy [Nuclear Weapon] units for [10] [Gold] [in all cities]",
