@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Shakti",
+    "uniqueTo": "India",
+    "replaces": "Nuclear Missile",
+    "movement": 1,
+		"strength": 400,
+		"rangedStrength": 400,
+		"range": 24,
+    "sight": 24,
+		"cost": 1000,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["Nuclear weapon of Strength [3]", "Only available <if [Manhattan Project] is constructed>",
+			"Blast radius [3]", "Consumes [2] [Uranium]"],
+		"attackSound": "nuke"
+  }
+]
