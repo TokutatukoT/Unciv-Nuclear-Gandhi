@@ -26,7 +26,9 @@
 		"uniques": [
       			"[+100]% unhappiness from the number of cities",
       			"[-50]% Unhappiness from [Population] [in all cities]",
-			"[50]% Food is carried over after population increases [in all cities] <before discovering [Advanced Ballistics]>",
+			"[+5 Food] [in all cities]",
+			"[+1 Food] per [2] population [in all cities]",
+			"[+50]% Food is carried over after population increases [in all cities] <before discovering [Advanced Ballistics]>",
 			"[+1 Science] per [1] population [in all cities] <before discovering [Advanced Ballistics]>",
 			"[+5 Science] [in all cities] <before discovering [Advanced Ballistics]>",
 			"[+2 Science] from every specialist [in all cities] <before discovering [Advanced Ballistics]>",
