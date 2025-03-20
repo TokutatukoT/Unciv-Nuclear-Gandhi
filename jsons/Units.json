@@ -8,7 +8,6 @@
 	"strength": 400,
 	"rangedStrength": 400,
 	"range": 24,
-	"sight": 27,
 	"cost": 800,
 	"requiredTech": "Advanced Ballistics",
 	"uniques": [
@@ -18,6 +17,7 @@
 			"Consumes [2] [Uranium]",
 			"[+200]% Strength <vs cities>",
       			"[-100]% maintenance costs",
+			"[+27] Sight",
      			"Can move immediately once bought"
 		],
 	"attackSound": "nuke"
