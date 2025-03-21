@@ -46,7 +46,9 @@
      			"[+900]% Production when constructing [Nuclear Weapon] units [in all cities]",
 			"Provides [50] [Uranium] <after discovering [Atomic Theory]>",
 			"Double quantity of [Uranium] produced",
-			"[Worker] units gain the [Fallout Remover] promotion <upon discovering [Atomic Theory] technology><upon discovering [Ecology] technology>"
+			"[Worker] units gain the [Fallout Remover] promotion <upon discovering [Atomic Theory] technology><upon discovering [Ecology] technology>",
+			"Population loss from nuclear attacks [-25]% [in all cities] <after discovering [Telecommunications]>",
+			"Damage to garrison from nuclear attacks [-25]% [in all cities] <after discovering [Telecommunications]>"
     ],
 		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
 			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
