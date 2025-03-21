@@ -24,8 +24,9 @@
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Smiling Buddha",
 		"uniques": [
-      			"[+100]% unhappiness from the number of cities",
+      			"[-50]% unhappiness from the number of cities",
       			"[-50]% Unhappiness from [Population] [in all cities]",
+			"[+50]% growth [in all cities]"
 			"[+5 Food] [in all cities]",
 			"[+1 Food] per [2] population [in all cities]",
 			"[+50]% Food is carried over after population increases [in all cities] <before discovering [Advanced Ballistics]>",
@@ -34,10 +35,15 @@
 			"[+2 Science] from every specialist [in all cities] <before discovering [Advanced Ballistics]>",
 			"[-50]% Food consumption by specialists [in all cities]",
 			"[+20]% [Science] [in all cities] <before discovering [Advanced Ballistics]>",
+			"[+900]% [Science] [in all cities] <while researching [Atomic Theory]>",
+			"[+400]% [Science] [in all cities] <while researching [Radar]>",
+			"[+900]% [Science] [in all cities] <while researching [Nuclear Fission]>",
+			"[+400]% [Science] [in all cities] <while researching [Rocketry]>",
+			"[+900]% [Science] [in all cities] <while researching [Advanced Ballistics]>",
 			"May buy [Manhattan Project] buildings with [Science] [in all cities]",
 			"May buy [Nuclear Weapon] units for [10] [Gold] [in all cities]",
 			"May buy [Nuclear Weapon] units for [10] [Faith] [in all cities]",
-     			"[+200]% Production when constructing [Nuclear Weapon] units [in all cities]",
+     			"[+900]% Production when constructing [Nuclear Weapon] units [in all cities]",
 			"Provides [50] [Uranium] <after discovering [Atomic Theory]>",
 			"Double quantity of [Uranium] produced"
     ],
