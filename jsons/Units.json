@@ -7,17 +7,17 @@
 	"movement": 1,
 	"strength": 400,
 	"rangedStrength": 400,
-	"range": 24,
+	"range": 36,
 	"cost": 800,
 	"requiredTech": "Advanced Ballistics",
 	"uniques": [
 			"Nuclear weapon of Strength [3]",
 			"Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [3]",
+			"Blast radius [2]",
 			"Consumes [2] [Uranium]",
 			"[+200]% Strength <vs cities>",
       			"[-100]% maintenance costs",
-			"[+27] Sight",
+			"[+38] Sight",
      			"Can move immediately once bought"
 		],
 	"attackSound": "nuke"
