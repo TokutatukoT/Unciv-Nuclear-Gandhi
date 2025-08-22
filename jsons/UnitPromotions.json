@@ -1,7 +1,10 @@
 [
   {
     "name": "Fallout Remover",
-    "uniques": ["Can instantly construct a [Remove Fallout] improvement"]
+    "uniques": [
+      "Can instantly construct a [Remove Fallout] improvement <for [0] movement>",
+      "[This Unit] gains [2] movement <upon entering a [Fallout] tile>"
+    ]
     
   }
 ]
