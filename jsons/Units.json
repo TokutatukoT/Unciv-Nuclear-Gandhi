@@ -8,17 +8,16 @@
 	"strength": 400,
 	"rangedStrength": 400,
 	"range": 36,
-	"cost": 800,
-	"requiredTech": "Advanced Ballistics",
+	"cost": 40,
 	"uniques": [
 			"Nuclear weapon of Strength [3]",
-			"Only available <if [Manhattan Project] is constructed>",
+			"Only available <if [Smiling Buddha] is constructed>",
 			"Blast radius [2]",
 			"Consumes [2] [Uranium]",
 			"[+900]% Strength <vs cities>",
-      			"[-100]% maintenance costs",
-			"[+38] Sight",
-     			"Can move immediately once bought"
+      		"[-100]% maintenance costs",
+			"[+38] Sight", "Can see over obstacles",
+     		"Can move immediately once bought"
 		],
 	"attackSound": "nuke"
   }
