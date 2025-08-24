@@ -6,11 +6,14 @@
     "cost": 750,
     "isNationalWonder": true,
     "uniques": [
-      "Enables nuclear weapon", "Cannot be hurried",
+		"Enables nuclear weapon", "Cannot be hurried",
      	"[+100]% Production when constructing [Nuclear Weapon] units [in all cities]",
-      "[5] free [Shakti] units appear",
-			"Provides [50] [Uranium]",
-			"All newly-trained [Worker] units [in all cities] receive the [Fallout Remover] promotion"
+        "[5] free [Shakti] units appear",
+		"Free [Shakti] appears <every [10] turns>",
+		"Free [Shakti] appears <every [1] turns><when at war>",
+		"Provides [50] [Uranium]",
+		"All newly-trained [Worker] units [in all cities] receive the [Fallout Remover] promotion",
+		"Only available <after turn number [50]>"
     ]
   }
 ]
