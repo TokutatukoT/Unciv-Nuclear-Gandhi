@@ -10,8 +10,8 @@
 		"Enables nuclear weapon",
      	"[+900]% Production when constructing [Nuclear Weapon] units [in all cities]",
         "[5] free [Shakti] units appear",
-		"[1] free [Shakti] units appear <in this city> <every [10] turns>",
-		"[1] free [Shakti] units appear <in this city> <every [1] turns><when at war>",
+		"[5] free [Shakti] units appear <upon entering a new era>",
+		"Free [Shakti] appears <in [in all cities] cities> <upon turn start> <when at war>",
 		"Provides [50] [Uranium]",
 		"All newly-trained [Worker] units [in all cities] receive the [Fallout Remover] promotion",
 		"Only available <after turn number [50]>"
